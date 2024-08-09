@@ -1,0 +1,4 @@
+<h1>Redirecting......</h1>
+<script>
+  location.replace("https://cattle-deciding-constantly.ngrok-free.app")
+</script>

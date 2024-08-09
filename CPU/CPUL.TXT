@@ -1,2 +1,0 @@
-celeron 420  0
-celeron 430  1
